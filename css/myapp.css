@@ -158,11 +158,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .giga, .mega, .kilo{
 	color: #434343;
 }
 h1{
-	font-size: 175%;
+	font-size: 150%;
 	position: relative;
-	padding-bottom:18px;
+	padding-bottom:12px;
 	font-weight:bold;
-	margin-bottom: 18px;
+	margin-bottom: 12px;
 	margin-top:6px;
 }
 h1.h1-qheader{
