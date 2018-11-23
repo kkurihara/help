@@ -8,3 +8,5 @@ pullreq test
 pullreq test
 
 cherry test
+
+merge test
