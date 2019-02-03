@@ -9,7 +9,7 @@ changed on local 20181112 gittest
 pullreq test
 pullreq test
 
-cherry test
+cherry test 20190202
 
 change1
 
